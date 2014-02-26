@@ -1,3 +1,13 @@
+:: Install Third Party Updates Script
+:: Author: John Patrick McCarthy
+:: <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
+:: Date: 24th of February, 2014
+:: Version 1.0
+::
+:: To God only wise, be glory through Jesus Christ forever. Amen.
+::
+:: Romans 16:27 ; I Corinthians 15:1-4
+::----------------------------------------------------------------
 :: Make sure you edit the USERNAME and password below
 :: Creates the batch file that the scheduled task runs
 ECHO C:\Program Files\TrueCrypt\TrueCrypt.exe /a favorites /p "password" /q > C:\users\USERNAME\documents\truecrypt.bat
