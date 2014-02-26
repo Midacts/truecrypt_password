@@ -1,4 +1,4 @@
-:: Install Third Party Updates Script
+:: Truecrypt Auto-mount Password Script
 :: Author: John Patrick McCarthy
 :: <http://www.midactstech.blogspot.com> <https://www.github.com/Midacts>
 :: Date: 24th of February, 2014
